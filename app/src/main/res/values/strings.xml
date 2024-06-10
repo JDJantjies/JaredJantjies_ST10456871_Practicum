@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JaredJantjies_ST10456871_Practicum</string>
+    <string name="appHeader">Weather Wize</string>
+    <string name="nameText">Jared Jantjies</string>
+    <string name="stText">ST10456871</string>
+    <string name="exitButtonText">Exit</string>
+    <string name="proceedButtonText">Proceed</string>
+    <string name="nextButtonText">Next</string>
+    <string name="backButtonText">Back</string>
+    <string name="clearButtonTex">Clear</string>
+    <string name="monText">Monday</string>
+    <string name="tueText">Tuesday</string>
+    <string name="wedText">Wednesday</string>
+    <string name="thuText">Thursday</string>
+    <string name="friText">Friday</string>
+    <string name="satText">Saturday</string>
+    <string name="sunText">Sunday</string>
+    <string name="dayText">Day</string>
+    <string name="descriptionText">Description</string>
+    <string name="minText">Min Temp</string>
+    <string name="maxText">Max Temp</string>
+    <string name="aveText">Average Temp</string>
+    <string name="enterTempPrompt">Enter Temp Here</string>
+</resources>
