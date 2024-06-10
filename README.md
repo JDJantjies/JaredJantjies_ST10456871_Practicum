@@ -33,3 +33,17 @@ averageMaxTemp = totalMaxTemp/7
 output "averageMaxTemp" + totalMaxTemp/7
 
 Stop
+
+how to use my app
+---
+step 1. open the application.
+---
+step 2. press the proceed button.
+---
+step 3. follow the instrtuons displayed on the screen.
+---
+step 4. once you have ve input all of your values, press the nect button.
+---
+step 5. the final screen is supposed to display what u have input, but you will just see a table.
+---
+
